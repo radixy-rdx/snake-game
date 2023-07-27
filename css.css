@@ -1,0 +1,23 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+* {box-sizing: border-box;
+}
+
+body {
+    background: #5ED1BA; 
+    padding: 50px;
+}
+/* Семенов Вадим 3ПИА*/
+canvas {
+    background: black;
+    margin: 0 auto;
+    display: block;
+}
+
+.logo {
+    position: fixed;
+}
+
